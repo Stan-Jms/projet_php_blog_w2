@@ -1,0 +1,17 @@
+{
+    "name": "stanley/app",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stanley Jamais",
+            "email": "jamais.stanley@gmail.com"
+        }
+    ],
+    "require": {
+        "michelf/php-markdown": "^1.9"
+    }
+}
